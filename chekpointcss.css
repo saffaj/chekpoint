@@ -1,0 +1,44 @@
+h1 {
+    color: aqua;
+    background-size:0vmin;
+    width: 275px;
+    margin-bottom:0;
+}
+h2 {
+  color: brown;
+  margin-bottom:0;
+  
+}
+h2,a {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.r,a {
+    margin-top: 0;
+    margin-bottom: 0;
+}  
+
+
+
+* {
+  font-family:'roboto';
+ 
+}
+
+nav,li {
+  list-style: none;
+}
+
+nav,li,ul {
+  display: inline ;
+  margin:0;
+  padding: 10px;
+  margin-right: 20px;
+  background-color: black;
+
+}
+div,form {
+    width: 100px;
+    height: 100px;
+    display:inline;   
+}
